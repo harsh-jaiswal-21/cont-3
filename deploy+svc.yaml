@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: tom-cont
-          image: dockerworm21/random-repo:new-tom-std-ui
+          image: dockerworm21/random-repo:students-tomcat
           ports:
           - containerPort: 80
 
